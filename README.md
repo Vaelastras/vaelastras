@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-header
+![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
 
 
 About me
