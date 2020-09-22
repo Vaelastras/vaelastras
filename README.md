@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Vaelastras/vaelastras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,35 @@ Here are some ideas to get you started:
 ![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
 
 
-About me
+##About me
+Всем пламенный привет!👋🔥
+Меня зовут Алексей Белов, я начинающий Front-end разработчик.
+Мне 33 года, живу в Москве.
+Очень люблю путешествовать, особенно по городам Золотого Кольца России 🪐🇷🇺
 
 
-Languages and tools
+
+### Languages and tools
+
+![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript&logoColor=yellow)
+![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=FFFFFF)
+![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&)
+![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
 
 
-Follow me
+####Follow me
+
+[![Facebook](https://img.shields.io/badge/-Facebook-141130?style=flat-square&logo=Facebook)](https://www.facebook.com/Vaelastras)
+[![VKontakte](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/vaelastras)
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram)](https://t.me/vaelastras)
+[![Instagram](https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram)](https://www.instagram.com/vaelastras/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=flat-square&logo=LinkedIn)](www.linkedin.com/in/vaelastras)
+
+
+
+<HR>
+ Profile info
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
