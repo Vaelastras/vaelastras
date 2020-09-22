@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### Languages and tools
+Languages and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
 
 
-####Follow me
+Follow me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-141130?style=flat-square&logo=Facebook)](https://www.facebook.com/Vaelastras)
 [![VKontakte](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/vaelastras)
