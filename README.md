@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
 
 
-##About me
+About me
 Всем пламенный привет!👋🔥
 Меня зовут Алексей Белов, я начинающий Front-end разработчик.
 Мне 33 года, живу в Москве.
