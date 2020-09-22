@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 ![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
 
 
-About me
-Всем пламенный привет!👋🔥
-Меня зовут Алексей Белов, я начинающий Front-end разработчик.
-Мне 33 года, живу в Москве.
-Очень люблю путешествовать, особенно по городам Золотого Кольца России 🪐🇷🇺
+<h1>About me</h1> 
+Всем пламенный привет!👋🔥  <br>
+Меня зовут Алексей Белов, я начинающий Front-end разработчик. <br>  
+Мне 33 года, живу в Москве. <br> 
+Очень люблю путешествовать, особенно по городам Золотого Кольца России 🪐🇷🇺  
 
 
-
-Languages and tools
+<h2>Languages and tools</h2>
+Умею, знаю и применяю в работе следующий стек технологий:  
+<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
@@ -38,7 +39,7 @@ Languages and tools
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
 
 
-Follow me
+<h3>Follow me</h3>
 
 [![Facebook](https://img.shields.io/badge/-Facebook-141130?style=flat-square&logo=Facebook)](https://www.facebook.com/Vaelastras)
 [![VKontakte](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/vaelastras)
@@ -49,6 +50,8 @@ Follow me
 
 
 <HR>
- Profile info
+<i>Profile info</i>  
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
