@@ -4,6 +4,7 @@
     <list default="true" id="7248daba-6c4f-4e4f-b31e-329e0cbfddd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/header.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/header.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
       <workItem from="1600456366377" duration="696000" />
       <workItem from="1600769174817" duration="4610000" />
       <workItem from="1600776139919" duration="6000" />
-      <workItem from="1600893645932" duration="371000" />
+      <workItem from="1600893645932" duration="741000" />
     </task>
     <servers />
   </component>
@@ -45,6 +46,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="341" y="152" key="SettingsEditor" timestamp="1600894097409">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="341" y="152" key="SettingsEditor/0.23.1680.981@0.23.1680.981" timestamp="1600894097409" />
     <state x="2065" y="246" key="search.everywhere.popup" timestamp="1600773159574">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
