@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=FFFFFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&)
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
+![Less](https://img.shields.io/badge/-Less-141130?style=flat-square&logo=Sass)
 
 
 <h3>Follow me</h3>
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 
 <HR>
 <i>Profile info</i>  
-
+<br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
