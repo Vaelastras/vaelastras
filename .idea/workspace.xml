@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7248daba-6c4f-4e4f-b31e-329e0cbfddd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/feinman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/header.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/header.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,11 +29,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Service/helloWorld" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\belovai\Desktop\Yandex\vaelastras\assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,20 +54,25 @@
       <workItem from="1600769174817" duration="4610000" />
       <workItem from="1600776139919" duration="6000" />
       <workItem from="1600893645932" duration="741000" />
+      <workItem from="1630043845873" duration="6478000" />
+      <workItem from="1630059439726" duration="1824000" />
+      <workItem from="1630304297061" duration="9435000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="341" y="152" key="SettingsEditor" timestamp="1600894097409">
-      <screen x="0" y="23" width="1680" height="981" />
-    </state>
-    <state x="341" y="152" key="SettingsEditor/0.23.1680.981@0.23.1680.981" timestamp="1600894097409" />
-    <state x="2065" y="246" key="search.everywhere.popup" timestamp="1600773159574">
-      <screen x="1440" y="23" width="1920" height="1057" />
-    </state>
-    <state x="2065" y="246" key="search.everywhere.popup/0.23.1440.831/1440.23.1920.1057@1440.23.1920.1057" timestamp="1600773159574" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

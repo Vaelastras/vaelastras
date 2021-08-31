@@ -1,58 +1,52 @@
-
-
-<!--
-**Vaelastras/vaelastras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<link rel="stylesheet" href="./assets/index.css">
 
 
 ![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
 
 
-<h1>About me</h1> 
-Всем пламенный привет!👋🔥  <br>
-Меня зовут Алексей Белов, я Front-end разработчик. <br>  
-Мне 34 года, живу в Москве. <br> 
-Очень люблю путешествовать, особенно по городам Золотого Кольца России 🪐🇷🇺  
+<h1 align="center">About me</h1> 
+Приветствую вас!👋  <br/>
+Меня зовут Алексей Белов, я фронтенд-разработчик.<br/>
+Родился и живу в Москве.<br/>
+Очень люблю кодить и путешествовать (особенно по городам Золотого Кольца России) 🪐🇷🇺  
 
 
-<h2>Languages and tools</h2>
-Умею, знаю и применяю в работе следующий стек технологий:  
+<h3>Проекты</h3>
+
+|     Проект    | Название проекта | Описание | Стек проекта  |
+| ------------- | -------------    | ----------  | -----------------  |
+| <img src='https://vaelastras.github.io/how-to-learn/images/feinman.png' height="75" width="100" alt=''>  | How to learn  | Лендинг о лучших практиках самостоятельного обучения | ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS-141130?style=flat-square&logo=CSS3&logoColor=blue) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/how-to-learn/) |
+| <img src='https://vaelastras.github.io/russian-travel/image/lead-polka.jpg' height="75" width="100" alt=''>  | Russian Travel | **Выпускная работа по специальности &mdash; &laquo;Верстальщик&raquo;** <br /> <br /> Лендинг об интересных местах в России | ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS-141130?style=flat-square&logo=CSS3&logoColor=blue) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/russian-travel/) |
+| <img src='https://vaelastras.github.io/mesto/images/logo.svg' height="60" width="100" alt=''> | Mesto Vanilla JS | **Курсовая работа по JS (es6)**. <br/><br/> Лендинг для обмена карточками с интересными местами и не только :)<br /> Пользователь имеет возможность загружать собственные карточки (в том числе и удалять их),<br/> ставить карточкам лайки, изменять свой аватар и контактные данные. | ![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS-141130?style=flat-square&logo=CSS3&logoColor=blue)  ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript) <br/> ![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/mesto/)
+| <img src='https://vaelastras.github.io/mesto/images/logo.svg' height="60" width="100" alt=''> | Mesto React JS | **Курсовая работа по React.js** <br/><br/> SPA Mesto на React.js <br /> Добавлен функционал регистрации и авторизации пользователя (LS, jwt), роутинги.<br/> Проведен рефакторинг кода и добавлены визуальные улучшения. | ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React) ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript&logoColor=yellow) ![CSS3](https://img.shields.io/badge/-CSS-141130?style=flat-square&logo=CSS3&logoColor=blue) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/react-mesto-auth/)
+| <img src='https://vaelastras.github.io/news-explorer-frontend/static/media/searchform-background.aeb58f8f.png' height="75" width="100" alt=''>| News Explorer | **Выпускная работа по специальности &mdash; &laquo;Frontend-разработчик&raquo;**. <br/><br/>SPA-агрегатор новостей со всего мира. Читайте только самые важные новости по интересующим вас темам. <br /> Регистрируйтесь на портале и сохраняйте новости в своем личном кабинете. <br /> | ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React) ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript&logoColor=yellow) ![CSS3](https://img.shields.io/badge/-CSS-141130?style=flat-square&logo=CSS3&logoColor=blue) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/news-explorer-frontend/)
+| <img src='https://vaelastras.github.io/inMuseum/static/media/project-logo.de469b8c.png' height="75" width="75" alt=''>| Inclusive Museum | Инклюзивный музей - некоммерческий проект реализованный факультативно под эгидой Яндекс.Практикума для [ИКОМ России](http://icom-russia.com/). <br /> Организации ставят перед собой цели развивать лучшие практики социализации и реабилитации людей с инвалидностью.<br />   | ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React) ![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript&logoColor=yellow) ![SASS](https://img.shields.io/badge/-SASS-141130?style=flat-square&logo=SASS) ![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=green) <br /> [Ссылка на проект](https://vaelastras.github.io/inMuseum/)
+
+
+<h2>My stack and tools</h2>
+Применяю в работе следующий стек технологий:
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
-![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141130?style=flat-square&logo=JavaScript&logoColor=yellow)
-![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=FFFFFF)
-![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&)
 ![React](https://img.shields.io/badge/-React-141130?style=flat-square&logo=React)
-![Less](https://img.shields.io/badge/-Less-141130?style=flat-square&logo=Sass)
+![SASS](https://img.shields.io/badge/-SASS-141130?style=flat-square&logo=Sass)
+![JavaScript](https://img.shields.io/badge/-JS-141130?style=flat-square&logo=JavaScript&logoColor=yellow)
+![Webpack](https://img.shields.io/badge/-Webpack-141130?style=flat-square&logo=Webpack&)
+![GIT](https://img.shields.io/badge/-Git-141130?style=flat-square&logo=GIT&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML-141130?style=flat-square&logo=HTML5&logoColor=FF0000)
 
 
-<h3>Follow me</h3>
+
+<h3>Соцсети и мессенджеры</h3>
 
 [![Facebook](https://img.shields.io/badge/-Facebook-141130?style=flat-square&logo=Facebook)](https://www.facebook.com/Vaelastras)
 [![VKontakte](https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk)](https://vk.com/vaelastras)
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram)](https://t.me/vaelastras)
-[![Instagram](https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram)](https://www.instagram.com/vaelastras/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=flat-square&logo=LinkedIn)](www.linkedin.com/in/vaelastras)
 
 
 
-<HR>
-<i>Profile info</i>  
-<br>
+<HR>  
 
+<h4>GH Profile info</h4>  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
