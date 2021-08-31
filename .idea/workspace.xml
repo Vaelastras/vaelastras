@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7248daba-6c4f-4e4f-b31e-329e0cbfddd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/feinman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <workItem from="1600893645932" duration="741000" />
       <workItem from="1630043845873" duration="6478000" />
       <workItem from="1630059439726" duration="1824000" />
-      <workItem from="1630304297061" duration="9746000" />
+      <workItem from="1630304297061" duration="11747000" />
     </task>
     <servers />
   </component>
