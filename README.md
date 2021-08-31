@@ -1,8 +1,4 @@
-<link rel="stylesheet" href="./assets/index.css">
-
-
 ![header](https://github.com/Vaelastras/vaelastras/blob/master/assets/header.png)
-
 
 <h1 align="center">About me</h1> 
 Приветствую вас!👋  <br/>
