@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7248daba-6c4f-4e4f-b31e-329e0cbfddd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/lyibimovka-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <list id="82e24557-ffe4-4a79-9da6-927e18bb328f" name="add link in header" comment="add link in header&#10;&#10;(cherry picked from commit cd407cb59254336aaec8de2c78e5bf9b6bfd1814)">
+      <changelist_data name="Alexey Belov" email="vaelastras@gmail.com" date="1600456547000" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +33,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Service/helloWorld" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="C:\Users\belovai\Desktop\Yandex\vaelastras\assets" />
     </key>
   </component>
@@ -54,6 +60,9 @@
       <workItem from="1630043845873" duration="6478000" />
       <workItem from="1630059439726" duration="1824000" />
       <workItem from="1630304297061" duration="11747000" />
+      <workItem from="1630498641207" duration="1253000" />
+      <workItem from="1630510855979" duration="112000" />
+      <workItem from="1630511053393" duration="1395000" />
     </task>
     <servers />
   </component>
