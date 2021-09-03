@@ -45,4 +45,4 @@
 
 <h4>GH Profile info</h4>  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaelastras github stats](https://github-readme-stats.vercel.app/api?username=Vaelastras&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) <br/><br/> [![Vaelastras Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaelastras&layout=compact)](https://github.com/vaelastras/github-readme-stats)

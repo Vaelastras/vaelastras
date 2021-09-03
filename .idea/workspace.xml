@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7248daba-6c4f-4e4f-b31e-329e0cbfddd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/lyibimovka-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -62,7 +61,7 @@
       <workItem from="1630304297061" duration="11747000" />
       <workItem from="1630498641207" duration="1253000" />
       <workItem from="1630510855979" duration="112000" />
-      <workItem from="1630511053393" duration="1395000" />
+      <workItem from="1630511053393" duration="2061000" />
     </task>
     <servers />
   </component>
